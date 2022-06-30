@@ -23,6 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "mobile-validator": "^1.0.1",
     "mongoose": "^6.2.7",
+    "mongoose-type-email": "^1.1.2",
     "nodemon": "^2.0.15"
   }
 }
